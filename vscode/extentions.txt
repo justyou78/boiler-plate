@@ -1,0 +1,37 @@
+Auto Close Tag
+	- element에 자동으로 close tag를 추가.
+Auto Rename Tag
+	- element tag name 수정 시, open 태그와 close 태그를 모두 변경.
+Code Spell Checker
+	- 변수명 스펠링 체커.
+CSS Peek
+	- 사용하는 class, id로 부터 해당 definition을 찾아간다.
+Error Lens
+	- 에러 경고 강조
+ESLint
+	- VS Code 내부 ESLint JavaScript를 통합한다
+Flow Language Support
+	- ?
+Git History
+	- View git log, file history
+GitLens
+	- 코드의 특정 라인은 hover 하는 경우, git 변경 사항을 제공.
+Go
+	- VS Code Go extendtion
+HTML CSS Support
+	- css 자동 완성
+Korean Language Pack for VIsual Studio Code
+	- 한국어 팩
+Material Icon Theme
+	- vs 코드 아이코 스타일 변경
+Prettier - Code formatter
+	- 통일성 있는 코드 유지.
+SCSS Formater
+	- scss 파일 저장 시, 깔끔한 들여쓰기를 지원.
+Sort JSON objects
+	- JSON 정렬 지원
+vscode-styled-components
+	- styled-components lib에서 style 자동완성 지원
+YANG syntax highlighter
+	- yang 파일 하이라이터
+
